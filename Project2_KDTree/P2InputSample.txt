@@ -1,0 +1,11 @@
+insert 37 80 Blacksburg
+insert 38 122 San_Francisco
+insert 41 96 Omaha
+remove 38 122
+find 38 122
+remove 38 122
+find 41 96
+regionsearch 30 70 20 50
+print
+
+I am the very model of a modern Major-General

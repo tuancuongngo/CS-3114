@@ -1,0 +1,3 @@
+insert 1000 80 Blacksburg
+insert 38 122 San_Francisco
+find 38 122

@@ -1,0 +1,6 @@
+File name: p3_input_sample.dat
+Cache Hits: 366060
+Cache Misses: 8726
+Disk Reads: 8726
+Disk Writes: 8712
+Time to Sort: 115

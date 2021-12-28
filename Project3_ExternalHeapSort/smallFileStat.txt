@@ -1,0 +1,6 @@
+File name: generated.dat
+Cache Hits: 12585252
+Cache Misses: 180768
+Disk Reads: 180768
+Disk Writes: 172148
+Time to Sort: 2744
